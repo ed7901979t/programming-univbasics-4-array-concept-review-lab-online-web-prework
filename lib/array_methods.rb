@@ -9,7 +9,7 @@ find_element_index(numbers, [4])
 def find_max_value(array)
   length=array.length
   if
-  length.times > length.times - 1 do  
+  length.times > length.times - 1   
     max=length.times
     puts #{max} 
   else 
@@ -21,7 +21,7 @@ find_max_value(numbers)
 def find_min_value(array)
   length=array.length
   if
-  length.times < length.times - 1 do  
+  length.times < length.times - 1 
     min=length.times
     puts #{min} 
   else 
